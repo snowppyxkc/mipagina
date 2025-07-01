@@ -1,0 +1,22 @@
+.d-item{
+    height: 500px;
+    text-align: center;
+}
+.d-img{
+    height: 70%;
+    object-fit: cover;
+    /*filter: brigthness(0.6);*/
+    margin: 10px;
+
+}
+.display_1{
+    text-align: center;
+    color: rgb(255, 208, 151);
+    font-size: 25px;
+}
+.mt-fs-3{
+    text-align: center;
+    color: rgb(126, 226, 230);
+    font-size: 15px;
+}
+    
